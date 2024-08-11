@@ -2,6 +2,20 @@
     "name" : "visifo-php/nova-enum-field",
     "description" : "A Laravel Nova field to add enums to resources.",
     "version": "4.0.0",
+    "authors" : [
+        {
+            "name" : "Matthew Poulter",
+            "email" : "matthew.poulter@simplesquid.co.za",
+            "homepage" : "https://simplesquid.co.za/",
+            "role" : "Developer"
+        },
+        {
+            "name" : "Sergej Tihonov",
+            "email" : "sergej@visifo.com",
+            "homepage" : "https://visifo.com/",
+            "role" : "Developer"
+        }
+    ],
     "keywords" : [
         "simplesquid",
         "laravel",
