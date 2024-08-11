@@ -2,6 +2,9 @@
 
 All notable changes to `nova-enum-field` will be documented in this file.
 
+## 4.0.0 - 2024-08-11
+- Support for Laravel 11 and PHP 8.3 (until the official package will support it)
+
 ## 3.0.1 - 2022-11-29
 - Laravel Nova v4 is now required
 
